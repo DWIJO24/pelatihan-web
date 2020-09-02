@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pelatihan-web.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pelatihan-web.git/static/js/main.9ad7a139.chunk.js",
+    "main.js.map": "/pelatihan-web.git/static/js/main.9ad7a139.chunk.js.map",
+    "runtime-main.js": "/pelatihan-web.git/static/js/runtime-main.0ac026e8.js",
+    "runtime-main.js.map": "/pelatihan-web.git/static/js/runtime-main.0ac026e8.js.map",
+    "static/css/2.9b74f8db.chunk.css": "/pelatihan-web.git/static/css/2.9b74f8db.chunk.css",
+    "static/js/2.3262c081.chunk.js": "/pelatihan-web.git/static/js/2.3262c081.chunk.js",
+    "static/js/2.3262c081.chunk.js.map": "/pelatihan-web.git/static/js/2.3262c081.chunk.js.map",
+    "index.html": "/pelatihan-web.git/index.html",
+    "precache-manifest.cfd6728782ad7bbe35f71a0bf992c84b.js": "/pelatihan-web.git/precache-manifest.cfd6728782ad7bbe35f71a0bf992c84b.js",
+    "service-worker.js": "/pelatihan-web.git/service-worker.js",
+    "static/css/2.9b74f8db.chunk.css.map": "/pelatihan-web.git/static/css/2.9b74f8db.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/pelatihan-web.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3262c081.chunk.js.LICENSE.txt": "/pelatihan-web.git/static/js/2.3262c081.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/pelatihan-web.git/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ac026e8.js",
+    "static/css/2.9b74f8db.chunk.css",
+    "static/js/2.3262c081.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ad7a139.chunk.js"
+  ]
+}
